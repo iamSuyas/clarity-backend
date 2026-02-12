@@ -74,7 +74,6 @@ expense-tracker/
 │   ├── tsconfig.json
 │   ├── tailwind.config.js
 │   └── index.html
-└── README.md
 ```
 
 ## Getting Started
